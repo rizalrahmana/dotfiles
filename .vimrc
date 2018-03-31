@@ -37,6 +37,8 @@ colorscheme gruvbox
 set background=dark
 let g:indentLine_char = '┊'
 " let g:indentLine_leadingSpaceEnabled = 1
+" ----------------Font Configuration-----------------------------------
+set guifont=Consolas:h11
 
 " ----------REMAP KEY------------------
 nnoremap <C-Up> <C-w>k
