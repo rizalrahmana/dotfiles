@@ -1,8 +1,2 @@
-# Android SDK and related PATH
-ANDROID_HOME=~/Android/Sdk
-export PATH=${PATH}:${ANDROID_HOME}/tools
-export PATH=${PATH}:${ANDROID_HOME}/platform-tools
-export PATH=${PATH}:${ANDROID_HOME}/genymotion
-
 # NodeJS PATH
 export PATH=${PATH}:/c/nodejs
