@@ -1,2 +1,5 @@
-# NodeJS PATH
-export PATH=${PATH}:/c/nodejs
+# NodeJS path
+export PATH=/c/sdk/nodejs:$PATH
+
+# PHP path
+export PATH=/c/sdk/php:$PATH
