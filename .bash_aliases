@@ -13,5 +13,5 @@ alias l='ls -CF'
 
 # Git related alias
 # alias for managing dotfiles in home directory using 'dot' as alias for git
-alias got='git --git-dir=$HOME/.cfg --work-tree=$HOME'
-__git_complete got _git
+alias dot='git --git-dir=$HOME/.cfg --work-tree=$HOME'
+__git_complete dot _git
